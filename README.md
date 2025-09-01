@@ -5,7 +5,7 @@
 O objetivo é praticar os primeiros conceitos de programação e organização de projetos no GitHub.
 
 
-# Tecnolgias utilizadas
+# Tecnologias utilizadas
 
 HTML
 
